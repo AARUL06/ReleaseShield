@@ -4,3 +4,6 @@ node_modules/
 !.env.example
 dist/
 coverage/
+.agentia/config.user.json
+.agentia/idex
+.agentia/apex.tests.*.json
